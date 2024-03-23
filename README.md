@@ -2,6 +2,7 @@
 
 ## 1. Data Collection Module
 We need data in order to process and model with it! Goal of this module is to have an open source for data collection.
+https://www.searchenginejournal.com/free-data-sources/302601/
 - API
 - Scraping
   
