@@ -16,5 +16,7 @@ https://www.searchenginejournal.com/free-data-sources/302601/
 
 ## 4. Model Building
 
-
+## 5. Modules I want to add/practice
+### 1. AWS
+### 2. Quant Finance
 
