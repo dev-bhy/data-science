@@ -1,7 +1,10 @@
 # Data Science
 
 ## 1. Data Collection Module
-
+We need data in order to process and model with it! Goal of this module is to have an open source for data collection.
+- API
+- Scraping
+  
 ## 2. Data Processing
 ### 1. Feature Selection
 #### Method 1. Maximal Information Coefficient Filter with Markov Blanket
